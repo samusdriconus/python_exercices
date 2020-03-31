@@ -1,3 +1,3 @@
 # python_exercices
 Challenge
-tests
+time spent : 58 mins
